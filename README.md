@@ -1,3 +1,3 @@
 # Black Jack Experiment
 
-https://notebooks.gesis.org/binder/jupyter/user/jasminewang553--jack-experiment-1zqgcocs/lab/tree/run.ipynb
+https://nbviewer.org/github/JasmineWang553/Black-Jack-Experiment/blob/main/run.ipynb
